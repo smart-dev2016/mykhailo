@@ -19,7 +19,7 @@ const About = () => {
           <div className="edrea_tm_about">
             <div className="left">
               <Image
-                src="/img/about/me.jpg"
+                src="/img/about/3.jpg"
                 alt=""
                 layout="fill"
                 style={{
